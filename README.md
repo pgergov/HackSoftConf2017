@@ -1,2 +1,1 @@
-# HackSoftConf2017
-Repository that holds all materials for my talk
+## Presentation can be found [here](https://slides.com/pavlingergov/pyton-s-natural-evolution)
