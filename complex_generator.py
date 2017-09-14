@@ -6,7 +6,7 @@ def complex_generator():
     for item in items:
         print('And this is crazy')
 
-        wtf = yield item
+        wtf = (yield item)
 
         print(wtf)
 
